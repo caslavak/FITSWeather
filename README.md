@@ -22,7 +22,7 @@ To make the program run at startup:
 CONFIGURATION
 -----------------------------------------------------------------------------
 Configuration information is stored in "config.properties". This file
-has to stay in the same folder as "FITS Weather.jar"
+has to stay in the same folder as "FITS Weather.exe"
 Fields:
 ROOT_DIR ......... path to the root folder that cointains subfolders with images
 SUBDIR_FORMAT .... date format for a subfolders (default yyyyMMdd), for more info
